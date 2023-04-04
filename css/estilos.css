@@ -1,0 +1,88 @@
+* {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 20px;
+}
+  
+body {
+    background-image: url('../imagenes/circuito.jpg');
+}
+header {
+    font-size: 40px;
+    background-color: darkslategrey;
+    margin: 30px;
+    margin-bottom: 5px;
+    color: darkseagreen;
+    border-radius: 20px;
+}
+
+nav {
+    color: white;
+    padding: 8px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px
+}
+
+article {
+   background-color: rgba(47, 79, 79, 0.7);
+   padding: 10px;
+   color: white;
+   border-radius: 10px;
+   margin: 10px 100px;   
+}
+
+footer {
+    background-color: rgba(47, 79, 79, 0.7);
+    border-radius: 10px;
+    margin: 0px;
+    padding: 10px;
+    margin: 0px 2%;
+    text-align: center;
+    color: white;
+
+}
+
+.navegacion {
+    margin: 10px 10px;
+    border: solid 2px aqua;
+    color: aqua;;
+    margin: 0px 40px;
+    border-radius: 20px;
+    background-color: darkslategrey;
+    padding: 0px 5px
+    ;
+}
+
+.h3 {
+    background-color: teal;
+    text-align: center;
+    color: cyan;
+}
+
+button {
+    border-radius: 10px;
+    background-color: teal;
+    color: white;      
+}
+
+.link {
+    color: darkseagreen;
+}
+
+.color {
+    color: white;
+}
+
+.navbar-collapse {
+    margin-left: 36%; 
+}
+
+.redondeado {
+    border-radius: 10000%;
+}
+
+.botones {
+    margin: 2px 0px;
+}

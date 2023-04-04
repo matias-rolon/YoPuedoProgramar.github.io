@@ -1,0 +1,27 @@
+@media only screen and (max-width: 767px) {
+    section {
+        margin: 1%
+    }
+
+    article {
+        margin: 1%;
+    }
+    
+    .navbar-collapse {
+        margin: 0%;
+    }
+
+    .img {
+        width: 80%;
+    }
+
+    header {
+        font-size: 35px;
+    }
+}
+
+@media only screen and (max-width: 990px){
+    .navbar-collapse {
+        margin: 1%;
+    }
+}
